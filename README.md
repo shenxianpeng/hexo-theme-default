@@ -1,4 +1,4 @@
-# Hexo Default Theme
+# My Hexo Blog Theme
 
 ## 我的 [博客](https://shenxianpeng.github.io/) 代码使用的 [Hexo](https://hexo.io)
 
